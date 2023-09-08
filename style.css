@@ -1,0 +1,53 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+/* Haeder Section  */
+header{
+    background-color: #183D3D;
+    color: #fff;
+    text-align: center;
+    padding: 20px;
+}
+
+img{
+    height: 200px;
+    width: 200px;
+    border-radius: 50%;
+    margin-bottom: 10px;
+}
+
+section{
+    border: 1px solid #bbb;
+    margin: 20px 25%;
+    padding: 20px;
+    background-color: #f2f2f2;
+    border-radius: 6px;
+    height: auto;
+}
+
+h2, p{
+    margin-bottom: 10px;
+}
+ul{
+    list-style: none;
+
+}
+
+li{
+    margin-bottom: 5px;
+
+}
+
+li a{
+    text-decoration: none;
+}
+
+footer{
+    background-color: #183D3D;
+    color: #fff;
+    text-align: center;
+    padding: 10px;
+    font-size: 1.2rem;
+}
